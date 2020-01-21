@@ -20,7 +20,7 @@
     </plugins>
   </build>
     <properties>
-        <spring.framework>5.1.4.RELEASE</spring.framework>
+        <spring.framework>5.2.3.RELEASE</spring.framework>
         <spring.data>2.1.9.RELEASE</spring.data>
         <hibernate.manager>5.4.1.Final</hibernate.manager>
     </properties>
